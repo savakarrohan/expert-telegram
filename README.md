@@ -3,8 +3,8 @@
 [![lite-badge](https://savakarrohan.github.io/expert-telegram/lab/index.html)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
- Pew
- 
+Pew
+
 ## ✨ Try it in your browser ✨
 
 ➡️ **[https://savakarrohan.github.io/expert-telegram/lab/index.html]**
